@@ -1,7 +1,9 @@
 #include "main.h"
 
 /**
- * more_numbers - nmbr fct
+ * main - check the code
+ *
+ * Return: Always 0.
  */
 
 void more_numbers(void)

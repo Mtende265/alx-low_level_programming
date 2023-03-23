@@ -1,7 +1,9 @@
 #include "main.h"
 
 /**
- * print_diagonal - printing lines diagonal
+ * main - check the code
+ *
+ * Return: Always 0.
  */
 
 

@@ -1,8 +1,10 @@
 #include "main.h"
 
 /**
-*print_numbers - print 0123456789
-*/
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
 
 void print_numbers(void)
 {
