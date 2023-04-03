@@ -13,7 +13,6 @@
  * Return: a pointer to the memory area @s
  */
 
-/*written by Codemonger*/
 
 char *_memset(char *s, char b, unsigned int a)
 {

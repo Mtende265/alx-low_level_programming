@@ -12,6 +12,7 @@
  *
  * Return: a pointer to @dest
  */
+
 char *_memcpy(char *src, char *dest, unsigned int a)
 {
 	unsigned int i = 0;
@@ -25,4 +26,3 @@ char *_memcpy(char *src, char *dest, unsigned int a)
 	return (dest);
 }
 
-/*written by Codemonger*/
