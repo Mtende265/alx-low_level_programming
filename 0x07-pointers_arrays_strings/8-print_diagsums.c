@@ -23,5 +23,5 @@ void print_diagsums(int *a, int size)
 	printf("%i, %i\n", l, r);
 }
 
-/*written by Codemonger*/
+
 
